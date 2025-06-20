@@ -109,6 +109,10 @@ npm run dev
 
 ---
 
+## Architecture Overview
+
+![Alt text](https://drive.google.com/file/d/1aE3WERQZ5mxGUHQX0SoY0Aevr0vMOOuP/view?usp=sharing)
+
 ## 🔄 Example Workflow
 
 1. User sends a voice or text command via the frontend.
