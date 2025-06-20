@@ -109,9 +109,6 @@ npm run dev
 
 ---
 
-## Architecture Overview
-
-
 
 ## 🔄 Example Workflow
 
